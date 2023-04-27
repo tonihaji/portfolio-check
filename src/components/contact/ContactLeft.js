@@ -12,9 +12,7 @@ const ContactLeft = () => {
           Full Stack Web-Developer
         </p>
         <p className="text-base text-gray-400 tracking-wide">
-        I enjoy working closely with clients to understand their needs and deliver projects that exceed their expectations.
-
-If you're interested in working with me, please don't hesitate to get in touch. I'd love to discuss how I can help bring your web project to life!
+        I enjoy working closely with clients to understand their needs and deliver projects that exceed their expectations.If you're interested in working with me, please don't hesitate to get in touch. I'd love to discuss how I can help bring your web project to life!
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Phone: <span className="text-lightText">+254 713013099</span>
